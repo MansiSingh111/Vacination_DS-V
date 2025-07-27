@@ -56,8 +56,15 @@ Vaccination DA&V/
 ├── cleaned_reported_cases_data.csv
 ├── cleaned_vaccine_introduction_data.csv
 ├── cleaned_vaccine_schedule_data.csv
-├── sql_connection.py
+├── coverage-data.csv
+├── Global Vaccination Data Analysis Report.pbix
+├── incidence-rate-data.xlsx - Data.csv
 ├── new.ipynb
-├── README.md
-├── *.xlsx  # (Raw source files)
-└── PowerBI Dashboard.pbix
+├── reported-cases-data.xlsx - Data.csv
+├── vaccine-introduction-data.xlsx - Data.csv
+├── vaccine-schedule-data.xlsx - Data.csv
+├── SQL scripts1.jpg
+├── SQL scripts2.jpg
+├── SQL scripts3.jpg
+├── SQL scripts4.jpg
+
